@@ -1,0 +1,12 @@
+#wp_archive_plugin_wrapper > ul {
+	list-style: none;
+	margin: 0 0 2em 0;
+	padding: 0;
+}
+
+.wp_archive_plugin_wrapper-date-nth {
+	display: inline-block;
+	min-width: 36px;
+	text-align: right;
+	color: #666666;
+}
